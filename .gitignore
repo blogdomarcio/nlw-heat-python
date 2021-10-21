@@ -1,0 +1,6 @@
+/_virtual/
+/.idea/
+/.vscode/
+/.virtual
+
+db.sqlite3
